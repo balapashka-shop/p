@@ -1,0 +1,224 @@
+@media (min-width: 1600px) and (max-width: 1900px){
+    .wrapper-block {
+        margin: 50px 80px;
+        justify-content: space-around;
+    }
+}
+
+@media (min-width: 1024px) and (max-width: 1599px){
+    .bala-text {
+        margin-left: 100px;
+    }
+    .assets {
+        margin-right: 100px;
+    }
+    .parallax {
+        height: 500px;
+    }
+    .container-text {
+        padding: 100px;
+        font-size: 30px;
+    }
+    .wrapper-block {
+        margin: 50px 20px;
+        justify-content: space-around;
+    }
+    .block {
+        flex-basis: 45%;
+        background-size: 710px;
+        height: 800px;
+    }
+    #block2 {
+        display: none;
+    }
+    #img1, #img4, #img5, #img8, #img9{
+        display: none;
+    }
+    .text_img {
+        flex-basis: 50%;
+    }
+    .image {
+        flex-basis: 50%;
+    }
+    .assets-img .link_kat {
+        margin-top: 150px;
+    }
+}
+
+@media (min-width: 767px) and (max-width: 1023px) {
+    .bala-text {
+        margin-left: 40px;
+        font-size: 50px;
+    }
+    .assets {
+        margin-right: 40px;
+        font-size: 20px;
+    }
+    .parallax {
+        height: 600px;
+    }
+    .container-text {
+        padding: 100px;
+        font-size: 30px;
+    }
+    .wrapper-block {
+        margin: 50px 20px;
+        justify-content: space-around;
+    }
+    .block {
+        flex-basis: 45%;
+        background-size: 450px;
+        height: 600px;
+    }
+    #block2 {
+        display: none;
+    }
+    #img2, #img3, #img6, #img7, #img10{
+        display: none;
+    }
+    .text_img {
+        flex-basis: 50%;
+    }
+    .image {
+        flex-basis: 50%;
+    }
+    .assets-img .link_kat {
+        margin-top: 200px;
+        font-size: 45px;
+    }
+    .assets-img .price {
+        font-size: 60px;
+        padding: 15px 0;
+    }
+    .assets-img .size {
+        font-size: 30px;
+    }
+    .assets-img .stock {
+        font-size: 30px;
+    }
+    #img9 {
+        background-position: left;
+    }
+}
+
+@media (max-width: 766px) {
+    .header-container {
+        justify-content: space-around;
+    }
+    .bala-text {
+        margin-left: 5px;
+        font-size: 38px;
+    }
+    .bala-text sup {
+        font-size: 18px;
+    }
+    .assets {
+        margin-right: 5px;
+    }
+    label, .phone {
+        display: none;
+    }
+    .katalog-text {
+        padding: 0px 30px;
+    }
+    .katalog_block {
+        font-size: 32px;
+    }
+    .whts_pic {
+        margin-top: 2px;
+        width: 60px; 
+        height: 60px;
+    }
+    .inst_pic {
+        width: 50px; 
+        height: 50px;
+        margin-top: 5px;
+    }
+    .parallax {
+        height: 400px;
+    }
+    .container-text {
+        line-height: 40px;
+        padding: 80px;
+        font-size: 15px;
+    }
+    .container-text span {
+        padding: 5px 10px;
+    }
+    .wrapper-block {
+        margin: 50px 8px;
+        justify-content: space-around;
+    }
+    .block {
+        flex-basis: 45%;
+        background-size: 320px;
+        height: 400px;
+    }
+    #block2 {
+        display: none;
+    }
+    .text-wrapper .text {
+        font-size: 40px;
+    }
+    #img2, #img3, #img6, #img7, #img10{
+        display: none;
+    }
+    #img9 {
+        background-position: left;
+    }
+    .text_img {
+        flex-basis: 45%;
+    }
+    .image {
+        flex-basis: 55%;
+        height: 500px;
+        background-size: 400px;
+    }
+    .assets-img .link_kat {
+        margin-top: 150px;
+        font-size: 22px;
+    }
+    .assets-img .price {
+        font-size: 25px;
+        padding: 15px 0;
+    }
+    .assets-img .size {
+        font-size: 20px;
+        line-height: 20px;
+    }
+    .assets-img .stock {
+        font-size: 15px;
+    }
+    .assets-img razm {
+        font-size: 40px;
+    }
+    .text-wrapper {
+        margin: 20px 0;
+    }
+    .images-container {
+        margin: 0;
+    }
+    .wrapper-foot {
+        margin-top: 50px;
+    }
+    #img1 {
+    background-image: url(/html/balapashka.com/inside_kat/assets/images/slip/slip4.jpeg);
+}
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

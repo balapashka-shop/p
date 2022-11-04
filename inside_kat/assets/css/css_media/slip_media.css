@@ -1,0 +1,194 @@
+@media (max-width: 1600px) and (max-width: 1900px){
+    
+}
+
+@media (min-width: 1024px) and (max-width: 1599px){
+    .bala-text {
+        margin-left: 100px;
+    }
+    .assets {
+        margin-right: 100px;
+    }
+    .wrapper-grid {
+        margin: 30px 20px;
+    }
+    .text {
+        margin: 10px 30px;
+    }
+    .wrappers-block {
+        margin: 0 20px;
+        justify-content: space-around;
+    }
+}
+
+@media (min-width: 767px) and (max-width: 1023px) {
+    .bala-text {
+        margin-left: 40px;
+        font-size: 50px;
+    }
+    .assets {
+        margin-right: 40px;
+        font-size: 20px;
+    }
+    .wrapper-grid {
+        margin: 20px 60px;
+        grid-template-columns: repeat(2, 1fr);
+    }
+    .text {
+        margin: 10px 60px;
+    }
+    .text text1 {
+        font-size: 60px;
+    }
+    .text text2 {
+        font-size: 18px;
+    }
+    .wrappers-block {
+        margin: 20px 60px;
+        justify-content: space-around;
+    }
+    #block {
+        flex-basis: 300px;
+        height: 500px;
+        border-radius: 20px;
+    }
+    #block_ph {
+        width: 300px;
+        height: 300px;
+        background-size: 300px;
+        border-radius: 20px;
+    }
+    .description {
+        width: 300px;
+        height: 200px;
+        border-radius: 20px;
+    }
+    .description .name{
+        font-size: 35px;
+    }
+    .desc {
+        margin-left: 20px;
+    }
+    .desc stock {
+        font-size: 18px;
+    }
+    .desc price {
+        font-size: 28px;
+    }
+    .desc size {
+        font-size: 16px;
+    }
+}
+
+@media (max-width: 766px) {
+    .header-container {
+        justify-content: space-around;
+    }
+    .bala-text {
+        margin-left: 5px;
+        font-size: 38px;
+    }
+    .bala-text sup {
+        font-size: 18px;
+    }
+    .assets {
+        margin-right: 5px;
+    }
+    label, .phone {
+        display: none;
+    }
+    .katalog-text {
+        padding: 3px 30px;
+    }
+    .katalog_block {
+        font-size: 32px;
+    }
+    .whts_pic {
+        margin-top: 2px;
+        width: 60px; 
+        height: 60px;
+    }
+    .inst_pic {
+        width: 50px; 
+        height: 50px;
+        margin-top: 5px;
+    }
+    .wrapper-grid {
+        margin: 20px;
+        grid-template-columns: repeat(2, 1fr);
+        font-size: 22px;
+        grid-gap: 6px;
+    }
+    #block {
+        padding: 0px 0;
+        border-radius: 10px;
+    }
+    .text {
+        margin: 10px 20px;
+    }
+    .text text1 {
+        font-size: 40px;
+    }
+    .text text2 {
+        font-size: 15px;
+    }
+    .wrappers-block {
+        margin: 5px 0px;
+        justify-content: space-around;
+    }
+    #block {
+        flex-basis: 150px;
+        height: 290px;
+        border-radius: 10px;
+        margin: 5px;
+    }
+    #block_ph {
+        width: 150px;
+        height: 170px;
+        background-size: 150px;
+        border-radius: 10px;
+    }
+    .description {
+        width: 150px;
+        height: 110px;
+        border-radius: 10px;
+    }
+    .description .name {
+        font-size: 18px;
+    }
+    .desc {
+        margin-left: 5px;
+        position: relative;
+        line-height: 15px;
+    }
+    .desc stock {
+        display: none;
+        font-size: 8px;
+    }
+    .desc price {
+        font-size: 14px;
+        color: #ff5c5c;
+    }
+    .desc size {
+        font-size: 12px;
+    }
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
