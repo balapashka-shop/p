@@ -199,15 +199,15 @@ main {
 }
 
 #block1 {
-    background-image: url(/assets/images/3.jpeg);
+    background-image: url(../../images/3.jpeg);
 }
 
 #block2 {
-    background-image: url(/assets/images/2.jpeg);
+    background-image: url(../../images/2.jpeg);
 }
 
 #block3 {
-    background-image: url(/assets/images/9.jpeg);
+    background-image: url(../../images/9.jpeg);
 }
 
 .images-container {
@@ -297,44 +297,45 @@ a {
 
 
 #img1 {
-    background-image: url(/inside_kat/assets/images/slip/slip26.jpeg);
+    background-image: url(../../../inside_kat/assets/images/slip/slip26.jpeg);
 }
 
 #img2 {
-    background-image: url(/inside_kat/assets/images/slip/slip2.jpeg);
+    background-image: url(../../../inside_kat/assets/images/slip/slip2.jpeg);
 }
 
 #img3 {
-    background-image: url(/inside_kat/assets/images/komb/kombik10.jpeg);
+    background-image: url( ../../../inside_kat/assets/images/komb/kombik10.jpeg);
 }
 
 #img4 {
-    background-image: url(/inside_kat/assets/images/komb/kombik9.jpeg);
+    background-image: url( ../../../inside_kat/assets/images/komb/kombik9.jpeg);
 }
 
 #img5 {
-    background-image: url(/inside_kat/assets/images/koft/kofta2.jpeg);
+    background-image: url(../../../inside_kat/assets/images/koft/kofta2.jpeg);
 }
 
 #img6 {
-    background-image: url(/inside_kat/assets/images/koft/kofta4.jpeg);
+    background-image: url(../../../inside_kat/assets/images/koft/kofta4.jpeg);
 }
 
 #img7 {
-    background-image: url(/inside_kat/assets/images/kompl/komp14.jpeg);
+    background-image: url(../../../inside_kat/assets/images/kompl/komp14.jpeg);
 }
 
 #img8 {
-    background-image: url(/inside_kat/assets/images/kompl/komp19.jpeg);
+    background-image: url(../../../inside_kat/assets/images/kompl/komp19.jpeg);
 }
 
 #img9 {
-    background-image: url(/inside_kat/assets/images/nabor/nabor10.jpeg);
+    background-image: url(../../../inside_kat/assets/images/nabor/nabor10.jpeg);
 }
 
 #img10 {
-    background-image: url(/inside_kat/assets/images/nabor/nabor2.jpeg);
+    background-image: url(../../../inside_kat/assets/images/nabor/nabor2.jpeg);
 }
+
 
 .wrapper-foot {
     width: 100%;
