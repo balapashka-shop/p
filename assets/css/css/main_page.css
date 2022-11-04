@@ -134,11 +134,11 @@ main {
 }
 
 #parallax1 {
-    background-image: url(/assets/images/13.jpeg);
+    background-image: url(assets/images/13.jpeg);
 }
 
 #parallax2 {
-    background-image: url(/assets/images/12.jpeg);
+    background-image: url(assets/images/12.jpeg);
     background-position: top;
 }
 
