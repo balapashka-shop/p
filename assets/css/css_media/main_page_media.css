@@ -64,7 +64,16 @@
     }
     .parallax {
         height: 600px;
+        background-attachment: fixed;
+        width: 100%;
+        height: 700px;
+        background-repeat: no-repeat;
+        background-size: cover;
+        background-position: center;
+        text-align: center;
+        cursor: default;
     }
+    
     .container-text {
         padding: 100px;
         font-size: 30px;
@@ -209,9 +218,17 @@
     .wrapper-foot {
         margin-top: 50px;
     }
-    #img1 {
-    background-image: url(/html/balapashka.com/inside_kat/assets/images/slip/slip4.jpeg);
-}
+    .parallax {
+        height: 500px;
+        background-attachment: fixed;
+        width: 100%;
+        height: 700px;
+        background-repeat: no-repeat;
+        background-size: cover;
+        background-position: center;
+        text-align: center;
+        cursor: default;
+    }
 }
 
 
